@@ -2,7 +2,7 @@
 
 🚀 **Software Engineer | React.js Enthusiast**  
 
-I’m passionate about building **scalable web and mobile applications** that solve real-world problems. With over **3 years of experience**, I specialize in **React.js, TypeScript, Redux**, and modern frontend technologies. Currently, I’m expanding my skills in **Full Stack Development**.
+I’m passionate about building **scalable web and mobile applications** that solve real-world problems. With over **4 years of experience**, I specialize in **React.js, TypeScript, Redux**, and modern frontend technologies. Currently, I’m expanding my skills in **Full Stack Development**.
 
 ---
 
